@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="109088b7-57f1-472b-b5d8-eb572b7e4d93" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Form_Usuarios.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Formularios/Form_Usuarios.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="176" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form_DigitalizacionIndividual.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Formularios/Form_DigitalizacionIndividual.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="167" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getMunicipio.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/getMunicipio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabla.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Crud/tabla.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="76" column="114" selection-start-line="76" selection-start-column="114" selection-end-line="76" selection-end-column="114" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="97" column="8" lean-forward="true" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guardarDatosEditados.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Crud/guardarDatosEditados.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form_DigitalizacionGrupal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Formularios/Form_DigitalizacionGrupal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cat_Proyectos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Catalogos/Cat_Proyectos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_connection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataBase/database_connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/catalogos/form4.php" />
+        <option value="$PROJECT_DIR$/catalogos/form5.php" />
+        <option value="$PROJECT_DIR$/catalogos/form6.php" />
+        <option value="$PROJECT_DIR$/catalogos/form7.php" />
+        <option value="$PROJECT_DIR$/catalogos/form8.php" />
+        <option value="$PROJECT_DIR$/database_connection.php" />
+        <option value="$PROJECT_DIR$/../Proyectito/index.php" />
+        <option value="$PROJECT_DIR$/../Proyectito/login.php" />
+        <option value="$PROJECT_DIR$/../phpLogin/panel-control.php" />
+        <option value="$PROJECT_DIR$/DataBase/database_connection.php" />
+        <option value="$PROJECT_DIR$/Clases/user.php" />
+        <option value="$PROJECT_DIR$/Catalogos/Cat_Departamentos.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_desarrolladores.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_Decision.php" />
+        <option value="$PROJECT_DIR$/Clases/getMunicipio.php" />
+        <option value="$PROJECT_DIR$/Clases/fileUpload.php" />
+        <option value="$PROJECT_DIR$/Clases/filepath.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_Digitalizacion.php" />
+        <option value="$PROJECT_DIR$/reprobado.php" />
+        <option value="$PROJECT_DIR$/aprobado.php" />
+        <option value="$PROJECT_DIR$/../php-pdo-crud/edit.php" />
+        <option value="$PROJECT_DIR$/../crud/formulario.html" />
+        <option value="$PROJECT_DIR$/../crud/tabla_estatica.html" />
+        <option value="$PROJECT_DIR$/../crud/Catalogos/Cat_Proyectos.php" />
+        <option value="$PROJECT_DIR$/../crud/base_de_datos.php" />
+        <option value="$PROJECT_DIR$/../crud/listarPersonas.php" />
+        <option value="$PROJECT_DIR$/../crud/eliminar.php" />
+        <option value="$PROJECT_DIR$/../crud/guardarDatosEditados.php" />
+        <option value="$PROJECT_DIR$/../crud/editar.php" />
+        <option value="$PROJECT_DIR$/../crud/tabla/index.php" />
+        <option value="$PROJECT_DIR$/../crud/Catalogos/editar.php" />
+        <option value="$PROJECT_DIR$/../crud/Catalogos/update.php" />
+        <option value="$PROJECT_DIR$/../crud/Catalogos/index.php" />
+        <option value="$PROJECT_DIR$/../crud/Catalogos/guardarDatosEditados.php" />
+        <option value="$PROJECT_DIR$/../crud/Catalogos/eliminar.php" />
+        <option value="$PROJECT_DIR$/Crud/update.php" />
+        <option value="$PROJECT_DIR$/Crud/editar.php" />
+        <option value="$PROJECT_DIR$/Crud/guardarDatosEditados.php" />
+        <option value="$PROJECT_DIR$/Crud/eliminar.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_Usuarios.php" />
+        <option value="$PROJECT_DIR$/Catalogos/Cat_Proyectos.php" />
+        <option value="$PROJECT_DIR$/indexinvitado.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_InformacionPersonal.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_InformacionGrupal.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_DigitalizacionIndividual.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_DigitalizacionGrupal.php" />
+        <option value="$PROJECT_DIR$/Formularios/Form_Expedientes.php" />
+        <option value="$PROJECT_DIR$/indexusuario.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Crud/tabla.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Proyectox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyectox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyectox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyectox" type="462c0819:PsiDirectoryNode" />
+              <item name="Crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="img&#9;null&#9;null&#10;checkbox&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crud" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\crud\Catalogos" />
+      <recent name="C:\xampp\htdocs\Proyecto\DataBase" />
+      <recent name="C:\xampp\htdocs\Proyecto\Clases" />
+      <recent name="C:\xampp\htdocs\PaginaWeb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PaginaWeb\catalogos" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PaginaWeb" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.PaginaWeb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="109088b7-57f1-472b-b5d8-eb572b7e4d93" name="Default" comment="" />
+      <created>1532047686252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532047686252</updated>
+      <workItem from="1532047688808" duration="6627000" />
+      <workItem from="1532054343635" duration="3102000" />
+      <workItem from="1532124553144" duration="598000" />
+      <workItem from="1532180434488" duration="4000000" />
+      <workItem from="1532567305614" duration="8832000" />
+      <workItem from="1532629910809" duration="10466000" />
+      <workItem from="1532785116125" duration="599000" />
+      <workItem from="1532991885850" duration="2908000" />
+      <workItem from="1532996041621" duration="488000" />
+      <workItem from="1533005801055" duration="274000" />
+      <workItem from="1533165833507" duration="13061000" />
+      <workItem from="1533319376678" duration="1938000" />
+      <workItem from="1533321949089" duration="502000" />
+      <workItem from="1533345131855" duration="6825000" />
+      <workItem from="1533393223967" duration="1403000" />
+      <workItem from="1533600392653" duration="613000" />
+      <workItem from="1533705363503" duration="1730000" />
+      <workItem from="1534274314106" duration="23000" />
+      <workItem from="1534274337748" duration="3000" />
+      <workItem from="1534274358909" duration="12661000" />
+      <workItem from="1534295219535" duration="977000" />
+      <workItem from="1534297662486" duration="4000" />
+      <workItem from="1534297740178" duration="786000" />
+      <workItem from="1534304749086" duration="2000" />
+      <workItem from="1534304771571" duration="163000" />
+      <workItem from="1534305735208" duration="16000" />
+      <workItem from="1534305755073" duration="3000" />
+      <workItem from="1534305768774" duration="4415000" />
+      <workItem from="1534351460086" duration="3731000" />
+      <workItem from="1534453172042" duration="41243000" />
+      <workItem from="1534521037191" duration="6189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135075000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2758389" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4114094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/session/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="178" column="9" selection-start-line="178" selection-start-column="9" selection-end-line="178" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_Decision.php" />
+    <entry file="file://$PROJECT_DIR$/Clases/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/filepath.php" />
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_Digitalizacion.php" />
+    <entry file="file://$PROJECT_DIR$/reprobado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="83" lean-forward="true" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aprobado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="96" selection-start-line="36" selection-start-column="96" selection-end-line="36" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalogos/Cat_Diligencias.php" />
+    <entry file="file://$PROJECT_DIR$/../php-pdo-crud/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crud/formulario.html" />
+    <entry file="file://$PROJECT_DIR$/../crud/nuevaPersona.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/tabla_estatica.html" />
+    <entry file="file://$PROJECT_DIR$/../crud/formulario.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/Catalogos/Cat_Proyectos.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/base_de_datos.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/listarPersonas.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/tabla/index.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/Catalogos/Cat_Diligencias.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/Catalogos/index.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/Catalogos/editar.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/Catalogos/update.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/Catalogos/guardarDatosEditados.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/Catalogos/eliminar.php" />
+    <entry file="file://$PROJECT_DIR$/Crud/Cat_Diligencias.php" />
+    <entry file="file://$PROJECT_DIR$/Crud/editar.php" />
+    <entry file="file://$PROJECT_DIR$/Crud/vendor/animate/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13464" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalogos/update.php" />
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_TipoIngreso.php" />
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_desarrolladores.php" />
+    <entry file="file://$PROJECT_DIR$/Clases/fileUpload.php" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexinvitado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="57" lean-forward="true" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexusuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crud/eliminar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crud/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_InformacionPersonal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_InformacionGrupal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="119" column="50" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_Expedientes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_DigitalizacionGrupal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalogos/Cat_Proyectos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_Usuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="176" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formularios/Form_DigitalizacionIndividual.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="167" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/getMunicipio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crud/guardarDatosEditados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="97" column="8" lean-forward="true" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crud/tabla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="76" column="114" selection-start-line="76" selection-start-column="114" selection-end-line="76" selection-end-column="114" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
